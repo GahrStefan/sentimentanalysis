@@ -1,0 +1,33 @@
+textarea{resize: none}
+
+#stream {
+    border: 1px solid #ddd;
+    font-family: Consolas;
+    font-size: 10px;
+    max-height: 550px;
+    overflow: auto;
+    padding: 5px;
+}
+
+.server-tab {
+    padding-top:5px;
+}
+
+#stream ul {
+    padding-left: 15px;
+}
+
+button.btn-xs {
+    margin-right: 5px;
+}
+
+.tweet-container {
+    font-family: Consolas;
+    font-size: 10px;
+    overflow:auto;
+    height:300px;
+}
+
+#analyze {
+    display:none;
+}

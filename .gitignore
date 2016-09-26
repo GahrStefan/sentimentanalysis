@@ -1,0 +1,15 @@
+/target
+/data
+App
+Makefile
+/out
+/Other Stuff
+
+.idea/
+.settings/
+*.iml
+*.class
+.DS_Store
+*.jar
+
+data/
